@@ -2,7 +2,7 @@ print("Program Bilangan Terbesar dari 3 Buah Bilangan yang Diinputkan")
 A=int(input("Masukkan Bilangan Pertama :"))
 B=int(input("Masukkan Bilangan Kedua :"))
 C=int(input("Masukkan Bilangan Ketiga :"))
-if A>B and A>c:
+if A>B and A>C:
     print(A, "Terbesar dari 3 bilangan yang diinputkan")
 elif B>A and B>C:
     print(B, "Terbesar dari 3 bilangan yang diinputkan")
