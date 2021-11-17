@@ -9,7 +9,7 @@
 - Buka aplikasi python
 - Pilih menu file, tekan new file
 - contoh seperti gambar dibawah ini 
-![Gambar 1](/c/Users/acer/Pictures/screenshot/ss1.PNG)
+![Gambar 1](screenshot/ss1.PNG)
 
 - Lakukan kodingan seperti gambar dibawah ini
 ![Gambar 2](screenshot/ss2.PNG)
